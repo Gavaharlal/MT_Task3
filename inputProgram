@@ -1,0 +1,22 @@
+a  : int
+b:int
+read(a)
+b  =a
+a,  b=  b ,a
+print( b)
+print( "\n")
+b = b + 1 +(2*a + b)
+b = + 6 +4
+b = -6*4
+b = -65
+b,a=b,a
+while (a < 5 + 2*a || b > b){
+    a++
+    b--
+    a = 2*(a +5 -4)*3
+}
+print(b)
+a++
+++b
+a++
+print("Hello world")
